@@ -8,9 +8,7 @@ export default function Login(){
          }}>
             <input type="text" placeholder="email"/> 
             <input type="password" placeholder="123456"/> 
-            
             <button>Login</button>
-
 
         </div>
     )
