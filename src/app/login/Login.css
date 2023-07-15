@@ -1,6 +1,6 @@
-.conteiner {
-  display:flex;
- flex-direction:column;
-
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  background-color: white;
 }
-

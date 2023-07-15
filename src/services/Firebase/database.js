@@ -1,4 +1,7 @@
-import {getfirestore}from "firebase/firestore";
+import {getFirestore} from "firebase/firestore";
+
 import conexion from "./index";
-const db=getfirestore(conexion);
+
+const db = getFirestore(conexion);
+
 export default db;
